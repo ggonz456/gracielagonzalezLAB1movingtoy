@@ -10,7 +10,7 @@ package ggtclasse;
  *
  */
 public class EndListener  {
-
+ //**attribute
 	
-
+	private String name;
 }
